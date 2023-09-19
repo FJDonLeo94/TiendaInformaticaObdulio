@@ -1,0 +1,197 @@
+2023-08-27 15:21:22.3982 DEBUG init main
+2023-08-27 15:22:50.7479 DEBUG init main
+2023-08-27 15:23:16.3265 DEBUG init main
+2023-08-27 15:23:22.1654 INFO holaaaaa
+2023-08-27 15:23:22.1654 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:23:22.1654 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:27:31.4337 DEBUG init main
+2023-08-27 15:27:35.8286 INFO holaaaaa
+2023-08-27 15:27:35.8286 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:27:35.8286 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:28:33.9381 DEBUG init main
+2023-08-27 15:28:38.0440 INFO holaaaaa
+2023-08-27 15:28:38.0440 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:28:38.0440 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:29:21.0157 DEBUG init main
+2023-08-27 15:30:26.2023 DEBUG init main
+2023-08-27 15:30:30.1274 INFO holaaaaa
+2023-08-27 15:30:30.1274 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:30:30.1274 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:46:10.3645 DEBUG init main
+2023-08-27 15:46:14.9958 INFO holaaaaa
+2023-08-27 15:46:14.9958 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:46:14.9958 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:47:39.6427 DEBUG init main
+2023-08-27 15:47:44.1517 INFO holaaaaa
+2023-08-27 15:47:44.1517 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:47:44.1517 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:48:02.9158 INFO holaaaaa
+2023-08-27 15:48:02.9158 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:48:02.9158 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:48:12.5415 INFO holaaaaa
+2023-08-27 15:48:12.5415 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:48:12.5415 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:48:33.6731 DEBUG init main
+2023-08-27 15:48:37.6211 INFO holaaaaa
+2023-08-27 15:48:37.6211 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:48:37.6211 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:48:50.6341 INFO holaaaaa
+2023-08-27 15:48:50.6341 INFO holaaaaa
+2023-08-27 15:48:50.6341 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:48:50.6341 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:48:50.6341 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:48:50.6341 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:50:08.4418 DEBUG init main
+2023-08-27 15:50:11.8920 INFO holaaaaa
+2023-08-27 15:50:11.8920 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:50:11.8920 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:51:50.7801 DEBUG init main
+2023-08-27 15:51:55.5377 INFO holaaaaa
+2023-08-27 15:51:55.5405 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:51:55.5405 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:52:14.4981 DEBUG init main
+2023-08-27 15:52:18.5344 INFO holaaaaa
+2023-08-27 15:52:18.5344 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:52:18.5403 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 15:59:54.9468 DEBUG init main
+2023-08-27 15:59:58.4678 INFO holaaaaa
+2023-08-27 15:59:58.4678 INFO Se va a mostrar la lista de componentes
+2023-08-27 15:59:58.4678 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:03:22.9510 DEBUG init main
+2023-08-27 16:03:27.1708 INFO holaaaaa
+2023-08-27 16:03:27.1708 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:03:27.1708 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:05:21.4382 DEBUG init main
+2023-08-27 16:05:24.9745 INFO holaaaaa
+2023-08-27 16:05:24.9786 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:05:24.9786 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:05:41.9608 DEBUG init main
+2023-08-27 16:05:46.5045 INFO holaaaaa
+2023-08-27 16:05:46.5085 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:05:46.5085 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:08:30.3869 DEBUG init main
+2023-08-27 16:08:34.4825 INFO holaaaaa
+2023-08-27 16:08:34.4825 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:08:34.4825 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:09:34.9478 DEBUG init main
+2023-08-27 16:09:39.5169 INFO holaaaaa
+2023-08-27 16:09:39.5169 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:09:39.5169 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.7599 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.7938 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8482 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8482 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 WARN Se va a mostrar Delete not found
+2023-08-27 16:11:20.8583 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 ERROR Se va a mostrar error en edit null
+2023-08-27 16:11:20.8583 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:11:20.8583 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4339 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4493 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4673 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4673 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4673 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4673 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.4673 WARN Se va a mostrar Delete not found
+2023-08-27 16:12:57.5088 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5088 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5092 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5092 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5092 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5092 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:12:57.5092 ERROR Se va a mostrar error en edit null
+2023-08-27 16:45:06.8875 DEBUG init main
+2023-08-27 16:45:11.3775 INFO holaaaaa
+2023-08-27 16:45:11.3775 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:45:11.3775 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:45:44.7462 DEBUG init main
+2023-08-27 16:45:48.5557 INFO holaaaaa
+2023-08-27 16:45:48.5557 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:45:48.5557 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:49:06.8558 DEBUG init main
+2023-08-27 16:49:10.8140 INFO holaaaaa
+2023-08-27 16:49:10.8140 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:49:10.8140 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:52:25.6380 DEBUG init main
+2023-08-27 16:52:29.7792 INFO holaaaaa
+2023-08-27 16:52:29.7792 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:52:29.7792 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:52:54.9218 DEBUG init main
+2023-08-27 16:52:59.4807 INFO holaaaaa
+2023-08-27 16:52:59.4807 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:52:59.4807 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 16:55:23.5091 DEBUG init main
+2023-08-27 16:55:28.1495 INFO holaaaaa
+2023-08-27 16:55:28.1495 INFO Se va a mostrar la lista de componentes
+2023-08-27 16:55:28.1495 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 17:42:53.2313 DEBUG init main
+2023-08-27 17:42:57.4370 INFO holaaaaa
+2023-08-27 17:42:57.4370 INFO Se va a mostrar la lista de componentes
+2023-08-27 17:42:57.4370 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 17:45:03.1985 DEBUG init main
+2023-08-27 17:45:07.5249 INFO holaaaaa
+2023-08-27 17:45:07.5249 INFO Se va a mostrar la lista de componentes
+2023-08-27 17:45:07.5249 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 17:48:03.2439 DEBUG init main
+2023-08-27 17:48:25.6828 DEBUG init main
+2023-08-27 17:48:29.8114 INFO holaaaaa
+2023-08-27 17:48:29.8114 INFO Se va a mostrar la lista de componentes
+2023-08-27 17:48:29.8114 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 17:48:39.8367 INFO holaaaaaOrdenador
+2023-08-27 17:48:39.8367 INFO Se va a mostrar la lista de ordenadores
+2023-08-27 17:48:39.8367 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-27 18:12:01.2906 DEBUG init main
+2023-08-27 18:12:05.9786 INFO holaaaaa
+2023-08-27 18:12:05.9786 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:12:05.9786 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:12:15.6237 INFO holaaaaaOrdenador
+2023-08-27 18:12:15.6237 INFO Se va a mostrar la lista de ordenadores
+2023-08-27 18:12:15.6237 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-27 18:18:56.4017 DEBUG init main
+2023-08-27 18:20:13.0443 DEBUG init main
+2023-08-27 18:21:00.0431 DEBUG init main
+2023-08-27 18:21:04.9561 INFO holaaaaa
+2023-08-27 18:21:04.9561 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:21:04.9614 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:22:40.6961 DEBUG init main
+2023-08-27 18:22:55.4525 DEBUG init main
+2023-08-27 18:23:05.9314 DEBUG init main
+2023-08-27 18:23:10.0064 INFO holaaaaa
+2023-08-27 18:23:10.0089 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:23:10.0089 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:23:22.7051 INFO holaaaaaOrdenador
+2023-08-27 18:23:22.7051 INFO Se va a mostrar la lista de ordenadores
+2023-08-27 18:23:22.7051 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-27 18:24:07.5727 DEBUG init main
+2023-08-27 18:24:11.5398 INFO holaaaaa
+2023-08-27 18:24:11.5398 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:24:11.5398 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:24:19.5096 INFO holaaaaaOrdenador
+2023-08-27 18:24:19.5096 INFO Se va a mostrar la lista de ordenadores
+2023-08-27 18:24:19.5096 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-27 18:24:55.2507 DEBUG init main
+2023-08-27 18:25:00.6245 INFO holaaaaa
+2023-08-27 18:25:00.6245 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:25:00.6338 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:25:13.9735 INFO holaaaaaOrdenador
+2023-08-27 18:25:13.9735 INFO Se va a mostrar la lista de ordenadores
+2023-08-27 18:25:13.9735 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-27 18:45:18.4169 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4348 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4618 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4618 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4618 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4618 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.4618 WARN Se va a mostrar Delete not found
+2023-08-27 18:45:18.5170 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 INFO Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 DEBUG Se va a mostrar la lista de componentes
+2023-08-27 18:45:18.5170 ERROR Se va a mostrar error en edit null

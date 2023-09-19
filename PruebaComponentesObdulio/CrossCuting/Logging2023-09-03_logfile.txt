@@ -1,0 +1,4 @@
+2023-09-03 00:01:24.9554 DEBUG init main
+2023-09-03 00:01:33.9959 INFO holaaaaa
+2023-09-03 00:01:34.0049 INFO Se va a mostrar la lista de componentes
+2023-09-03 00:01:34.0049 DEBUG Se va a mostrar la lista de componentes

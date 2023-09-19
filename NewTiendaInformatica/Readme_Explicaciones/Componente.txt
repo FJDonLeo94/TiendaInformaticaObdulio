@@ -1,0 +1,14 @@
+﻿
+
+
+Lo primero que debemos saber es que el componente implementara la interfaz IComponente.
+
+Luego se realiza un enum de los tipos de componentes que hay de momento y otro con los componentes que se van a fabricar,
+el tipo de componente servira para poder clasificar los componentes y el componente general para identificarlos y poder 
+o usarlos (este componente de este enum dime sus caracteristicas) o llamarlos (estas caracteristicas dime el componente).
+
+Clase Componente.cs -> Propiedad autoimplementada, se le da a las propiedades un get y un set, el set es para darles valores en los test
+	asi puedes probar que todo funcione como deberia.
+	
+Interfaz Builder -> Dos metodos nullables, uno recibe el componente entero ya registrado en EnumComponente,
+	el otro recibe el tipo de componente y todas sus caracteristicas.

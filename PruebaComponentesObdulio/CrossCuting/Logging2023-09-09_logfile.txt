@@ -1,0 +1,5 @@
+2023-09-09 21:12:19.5162 DEBUG init main
+2023-09-09 21:20:09.4392 DEBUG init main
+2023-09-09 21:21:05.7023 DEBUG init main
+2023-09-09 21:21:15.9736 INFO Se va a mostrar la lista de componentes
+2023-09-09 21:21:15.9777 DEBUG Se va a mostrar la lista de componentes

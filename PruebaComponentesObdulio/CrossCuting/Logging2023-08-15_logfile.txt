@@ -1,0 +1,26 @@
+2023-08-15 19:47:22.4945 DEBUG init main
+2023-08-15 19:47:29.5779 INFO holaaaaa
+2023-08-15 19:47:55.4879 INFO Here is info message from the controller.
+2023-08-15 19:47:55.4879 DEBUG Here is debug message from the controller.
+2023-08-15 19:47:55.4879 WARN Here is warn message from the controller.
+2023-08-15 19:47:55.4879 ERROR Here is error message from the controller.
+2023-08-15 20:08:37.2745 INFO Se va a mostrar la lista de componentes
+2023-08-15 20:08:37.3777 INFO Se va a mostrar la lista de componentes
+2023-08-15 20:08:37.3906 INFO Se va a mostrar la lista de componentes
+2023-08-15 20:08:37.3906 INFO Se va a mostrar la lista de componentes
+2023-08-15 20:08:37.3906 INFO Se va a mostrar la lista de componentes
+2023-08-15 20:08:37.4019 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.4162 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.4654 DEBUG Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5190 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5190 DEBUG Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 DEBUG Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 DEBUG Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 WARN Se va a mostrar Delete not found
+2023-08-15 22:54:47.5290 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 DEBUG Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 ERROR Se va a mostrar error en edit null
+2023-08-15 22:54:47.5290 INFO Se va a mostrar la lista de componentes
+2023-08-15 22:54:47.5290 DEBUG Se va a mostrar la lista de componentes

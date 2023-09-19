@@ -1,0 +1,212 @@
+2023-08-29 19:34:34.7595 DEBUG init main
+2023-08-29 19:34:41.2281 INFO holaaaaa
+2023-08-29 19:34:41.2281 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:34:41.2281 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:35:15.5434 DEBUG init main
+2023-08-29 19:35:19.5099 INFO holaaaaa
+2023-08-29 19:35:19.5099 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:35:19.5099 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:38:59.6526 DEBUG init main
+2023-08-29 19:39:03.1522 INFO holaaaaa
+2023-08-29 19:39:03.1522 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:39:03.1522 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:40:39.4431 DEBUG init main
+2023-08-29 19:40:42.9953 INFO holaaaaa
+2023-08-29 19:40:42.9953 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:40:42.9953 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6042 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6417 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 WARN Se va a mostrar Delete not found
+2023-08-29 19:44:01.6978 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.6978 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.7129 ERROR Se va a mostrar error en edit null
+2023-08-29 19:44:01.7129 INFO Se va a mostrar la lista de componentes
+2023-08-29 19:44:01.7129 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.5424 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.5733 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6300 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6300 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 WARN Se va a mostrar Delete not found
+2023-08-29 20:15:30.6388 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 ERROR Se va a mostrar error en edit null
+2023-08-29 20:15:30.6388 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:15:30.6388 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.7616 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.7777 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8030 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8030 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8030 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8030 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8066 WARN Se va a mostrar Delete not found
+2023-08-29 20:17:24.8430 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:17:24.8430 ERROR Se va a mostrar error en edit null
+2023-08-29 20:18:09.9940 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0150 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 WARN Se va a mostrar Delete not found
+2023-08-29 20:18:10.0337 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 ERROR Se va a mostrar error en edit null
+2023-08-29 20:18:10.0337 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:10.0337 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.4971 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5158 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 WARN Se va a mostrar Delete not found
+2023-08-29 20:18:51.5355 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5355 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5403 ERROR Se va a mostrar error en edit null
+2023-08-29 20:18:51.5403 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:18:51.5403 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.1849 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2145 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2145 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2145 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2296 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2296 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2296 WARN Se va a mostrar Delete not found
+2023-08-29 20:21:06.2621 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:06.2621 ERROR Se va a mostrar error en edit null
+2023-08-29 20:21:55.6342 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6662 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6662 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6662 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6662 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6662 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.6816 WARN Se va a mostrar Delete not found
+2023-08-29 20:21:55.7140 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:21:55.7140 ERROR Se va a mostrar error en edit null
+2023-08-29 20:25:18.0255 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0406 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0616 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0616 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0616 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0616 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0616 WARN Se va a mostrar Delete not found
+2023-08-29 20:25:18.0970 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:25:18.0970 ERROR Se va a mostrar error en edit null
+2023-08-29 20:27:20.2309 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2450 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2717 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2717 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2717 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2717 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.2761 WARN Se va a mostrar Delete not found
+2023-08-29 20:27:20.3118 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:20.3118 ERROR Se va a mostrar error en edit null
+2023-08-29 20:27:45.2434 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2627 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2838 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2838 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2838 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2838 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.2838 WARN Se va a mostrar Delete not found
+2023-08-29 20:27:45.3209 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 INFO Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 20:27:45.3210 ERROR Se va a mostrar error en edit null
+2023-08-29 22:04:53.2903 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.3102 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5583 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5583 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5583 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5583 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5583 WARN Se va a mostrar Delete not found
+2023-08-29 22:04:53.5922 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:04:53.5922 ERROR Se va a mostrar error en edit null
+2023-08-29 22:08:28.0713 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1030 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1030 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1030 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1195 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1195 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1195 WARN Se va a mostrar Delete not found
+2023-08-29 22:08:28.1529 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:28.1529 ERROR Se va a mostrar error en edit null
+2023-08-29 22:08:39.2440 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2769 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2964 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2964 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2964 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2964 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.2964 WARN Se va a mostrar Delete not found
+2023-08-29 22:08:39.3457 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:08:39.3457 ERROR Se va a mostrar error en edit null
+2023-08-29 22:09:01.3369 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.3694 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4218 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4218 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 WARN Se va a mostrar Delete not found
+2023-08-29 22:09:01.4310 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 DEBUG Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 ERROR Se va a mostrar error en edit null
+2023-08-29 22:09:01.4310 INFO Se va a mostrar la lista de componentes
+2023-08-29 22:09:01.4310 DEBUG Se va a mostrar la lista de componentes

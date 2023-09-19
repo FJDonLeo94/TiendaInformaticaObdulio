@@ -1,0 +1,14 @@
+2023-09-02 10:50:48.9664 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0171 DEBUG Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0783 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0783 DEBUG Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0783 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 DEBUG Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 DEBUG Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 WARN Se va a mostrar Delete not found
+2023-09-02 10:50:49.0892 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 DEBUG Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 ERROR Se va a mostrar error en edit null
+2023-09-02 10:50:49.0892 INFO Se va a mostrar la lista de componentes
+2023-09-02 10:50:49.0892 DEBUG Se va a mostrar la lista de componentes

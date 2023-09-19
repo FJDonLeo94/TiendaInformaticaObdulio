@@ -1,0 +1,43 @@
+2023-08-22 14:33:54.5245 DEBUG init main
+2023-08-22 14:34:03.7281 INFO holaaaaa
+2023-08-22 14:34:03.7281 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:34:03.7281 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 14:38:54.1721 DEBUG init main
+2023-08-22 14:38:57.6824 INFO holaaaaa
+2023-08-22 14:38:57.6824 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:38:57.6824 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 14:40:10.2894 DEBUG init main
+2023-08-22 14:40:13.4483 INFO holaaaaa
+2023-08-22 14:40:13.4483 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:40:13.4483 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 14:41:14.2367 DEBUG init main
+2023-08-22 14:41:17.4526 INFO holaaaaa
+2023-08-22 14:41:17.4526 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:41:17.4526 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 14:46:56.4064 DEBUG init main
+2023-08-22 14:47:00.7029 INFO holaaaaa
+2023-08-22 14:47:00.7029 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:47:00.7029 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 14:52:48.0782 DEBUG init main
+2023-08-22 14:52:52.8463 INFO holaaaaa
+2023-08-22 14:52:52.8463 INFO Se va a mostrar la lista de componentes
+2023-08-22 14:52:52.8463 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 23:58:58.1228 DEBUG init main
+2023-08-22 23:59:01.6811 INFO holaaaaa
+2023-08-22 23:59:01.6811 INFO Se va a mostrar la lista de componentes
+2023-08-22 23:59:01.6811 DEBUG Se va a mostrar la lista de componentes
+2023-08-22 23:59:18.8216 INFO holaaaaaOrdenador
+2023-08-22 23:59:18.8227 INFO Se va a mostrar la lista de ordenadores
+2023-08-22 23:59:18.8227 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-22 23:59:24.0332 INFO holaaaaaOrdenador
+2023-08-22 23:59:28.8392 INFO holaaaaaOrdenador
+2023-08-22 23:59:28.8684 INFO Ordenador  2 editado
+2023-08-22 23:59:29.0199 INFO holaaaaaOrdenador
+2023-08-22 23:59:29.0199 INFO Se va a mostrar la lista de ordenadores
+2023-08-22 23:59:29.0199 DEBUG Se va a mostrar la lista de ordenadores
+2023-08-22 23:59:31.0769 INFO holaaaaaOrdenador
+2023-08-22 23:59:34.8259 INFO holaaaaaOrdenador
+2023-08-22 23:59:34.8382 INFO Ordenador  2 editado
+2023-08-22 23:59:34.8542 INFO holaaaaaOrdenador
+2023-08-22 23:59:34.8542 INFO Se va a mostrar la lista de ordenadores
+2023-08-22 23:59:34.8542 DEBUG Se va a mostrar la lista de ordenadores

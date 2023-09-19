@@ -1,0 +1,16 @@
+2023-09-08 11:15:38.3441 DEBUG init main
+2023-09-08 11:15:46.3579 INFO RepoComponente
+2023-09-08 11:15:46.3700 INFO Se va a mostrar la lista de componentes
+2023-09-08 11:15:46.3700 DEBUG Se va a mostrar la lista de componentes
+2023-09-08 11:15:58.7414 INFO RepoComponente
+2023-09-08 11:16:06.0508 INFO RepoComponente
+2023-09-08 11:16:06.0974 INFO Componente 15 editado
+2023-09-08 11:16:06.2669 INFO RepoComponente
+2023-09-08 11:16:06.2669 INFO Se va a mostrar la lista de componentes
+2023-09-08 11:16:06.2669 DEBUG Se va a mostrar la lista de componentes
+2023-09-08 11:16:10.5419 INFO RepoComponente
+2023-09-08 11:16:17.3720 INFO RepoComponente
+2023-09-08 11:16:17.3720 INFO Componente 15 editado
+2023-09-08 11:16:17.3946 INFO RepoComponente
+2023-09-08 11:16:17.3946 INFO Se va a mostrar la lista de componentes
+2023-09-08 11:16:17.3946 DEBUG Se va a mostrar la lista de componentes

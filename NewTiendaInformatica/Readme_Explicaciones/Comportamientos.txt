@@ -1,0 +1,18 @@
+﻿
+
+
+
+Los comportamientos son clases que implementan las interfaces, generaremos dos por caracteristica.
+
+Se basará en ConCaracteristica y SinCaracteristica, asi usando la misma interfaz de componente podremos crear
+todo tipo de componente independientemente de si tiene o no todas las caracteristicas que implementa.
+
+Explicaremos paso a paso que hace y como funciona cada comportamiento:
+
+ConCalor -> Implementa la propiedad Calor de la interfaz ICalor, solo con un metodo get, por tanto pide un valor para Calor.
+	Para ello se crea un metodo llamado ConCalor, el cual pide un int llamado calor, el metodo ejecuta lo siguiente
+	"Calor = calor" siendo Calor la implementacion de la interfaz ICalor y calor el valor que se le da al metodo.
+SinCalor -> Tambien Implementa ICalor, pero al ser SinCalor al realizar la implementacion la iguala a 0.
+
+El resto de comportamientos son iguales, pero respetando el tipo de dato, por ejemplo SinDescripcion se iguala a "",
+lo cual es el equivalente al 0 en string.

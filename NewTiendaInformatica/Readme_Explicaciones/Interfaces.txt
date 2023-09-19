@@ -1,0 +1,9 @@
+﻿
+
+Se generan las interfaces para cada uno de las cualidades que puede tener cualquier componente.
+
+En este caso como las interfaces no devuelven nada, solo reciben informacion 
+se hacen con una propiedad que solo tiene un get, no tiene un set.
+
+La union de las interfaces se pueden compilar en una sola interfaz llamada IComponente,
+la solucion a algun componente que no integra todas las cualdades se dara en los comportamientos.

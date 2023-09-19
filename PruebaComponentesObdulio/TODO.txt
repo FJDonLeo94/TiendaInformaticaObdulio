@@ -1,0 +1,19 @@
+﻿
+
+   
+
+-  URGENTE Advertencias URGENTE 
+
+-  URGENTE Test Ordenador y pedidos URGENTE
+       
+    - Logica para el calculo de precio en pedidos y ordenadores personalizados.
+
+    - Eliminar PC Almacen, no necesario
+
+    - Controladores y vistas de Pedidos y ojear ordenadores (precio)
+    
+    - Editar HTML y CSS  https://htmlreference.io    https://cssreference.io
+
+    - Mappear (mirar proyecto Oihana)
+
+     

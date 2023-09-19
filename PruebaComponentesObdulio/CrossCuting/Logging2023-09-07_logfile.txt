@@ -1,0 +1,24 @@
+2023-09-07 17:49:25.5757 DEBUG init main
+2023-09-07 17:49:31.3621 INFO RepoComponente
+2023-09-07 17:49:31.3689 INFO Se va a mostrar la lista de componentes
+2023-09-07 17:49:31.3689 DEBUG Se va a mostrar la lista de componentes
+2023-09-07 17:53:21.5910 DEBUG init main
+2023-09-07 17:53:33.4065 DEBUG init main
+2023-09-07 17:53:37.7852 INFO RepoComponente
+2023-09-07 17:53:37.7920 INFO Se va a mostrar la lista de componentes
+2023-09-07 17:53:37.7920 DEBUG Se va a mostrar la lista de componentes
+2023-09-07 17:54:57.2955 DEBUG init main
+2023-09-07 17:55:10.5758 DEBUG init main
+2023-09-07 17:55:18.7621 DEBUG init main
+2023-09-07 17:55:24.0888 INFO RepoComponente
+2023-09-07 17:55:24.0888 INFO Se va a mostrar la lista de componentes
+2023-09-07 17:55:24.0888 DEBUG Se va a mostrar la lista de componentes
+2023-09-07 17:55:40.9392 INFO RepoOrdenador
+2023-09-07 17:55:40.9392 INFO Se va a mostrar la lista de ordenadores
+2023-09-07 17:55:40.9392 DEBUG Se va a mostrar la lista de ordenadores
+2023-09-07 18:22:04.7370 DEBUG init main
+2023-09-07 20:13:01.6659 DEBUG init main
+2023-09-07 22:13:26.1196 DEBUG init main
+2023-09-07 22:13:30.1304 INFO RepoComponente
+2023-09-07 22:13:30.1349 INFO Se va a mostrar la lista de componentes
+2023-09-07 22:13:30.1349 DEBUG Se va a mostrar la lista de componentes
